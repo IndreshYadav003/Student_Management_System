@@ -1,0 +1,32 @@
+| File | Purpose |
+|---|---|
+| `index.html` | Dashboard |
+| `students.html` | All students |
+| `add-student.html` | Add/Edit student |
+| `student-details.html` | Student details |
+| `style.css` | Main design |
+| `responsive.css` | Mobile design |
+| `storage.js` | LocalStorage |
+| `student.js` | CRUD, search, filter |
+| `dashboard.js` | Dashboard statistics |
+| `details.js` | Student details |
+
+
+
+
+Student-Management-System
+│
+├── index.html
+├── students.html
+├── add-student.html
+├── student-details.html
+│
+├── css
+│   ├── style.css
+│   └── responsive.css
+│
+└── js
+    ├── storage.js
+    ├── student.js
+    ├── dashboard.js
+    └── details.js
